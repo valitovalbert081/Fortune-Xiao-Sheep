@@ -1,0 +1,433 @@
+{"id":"202403041438","name":"Fortune Xiao Sheep"
+,"socialmedias":[{"source":"dai.ly","status":1},{"source":"flic.kr","status":1},{"source":"redd.it","status":1},{"source":"kw.ai","status":1}]
+,"settings":[{"primarycolor":"#0d9900","secondarycolor":"#9998a4","accentcolor":"#17dc09","newui":1,"privacypolicy":"https://sites.google.com/view/fortunexiaosheep/home","appname":"Fortune Xiao Sheep","appversion":"9.6.5","author":"dj duro","contact":"","email":"valitovalbert081@gmail.com","website":"jihjoh","applogo":"","developedby":"Unknown"}]
+    ,"socialmedias": [
+        {
+            "source": "facebook.com",
+            "status": 1
+        },
+        {
+            "source": "tiktok",
+            "status": 1
+        },
+        {
+            "source": "instagram.com",
+            "status": 1
+        },
+        {
+            "source": "twitter.com",
+            "status": 1
+        },
+        {
+            "source": "likee",
+            "status": 1
+        },
+        {
+            "source": "sharechat.com",
+            "status": 1
+        },
+        {
+            "source": "youtube.com",
+            "status": 1
+        },
+        {
+            "source": "vimeo.com",
+            "status": 1
+        },
+        {
+            "source": "mxtakatak",
+            "status": 1
+        },
+        {
+            "source": "ganna",
+            "status": 1
+        },
+        {
+            "source": "20min.ch",
+            "status": 1
+        },
+        {
+            "source": "roposo.com",
+            "status": 1
+        },
+        {
+            "source": "snackvideo",
+            "status": 1
+        },
+        {
+            "source": "sck.io",
+            "status": 1
+        },
+        {
+            "source": "topbuzz.com",
+            "status": 1
+        },
+        {
+            "source": "buzzfeed.com",
+            "status": 1
+        },
+        {
+            "source": "dailymotion",
+            "status": 1
+        },
+        {
+            "source": "espn.com",
+            "status": 1
+        },
+        {
+            "source": "flickr",
+            "status": 1
+        },
+        {
+            "source": "imdb.com",
+            "status": 1
+        },
+        {
+            "source": "imgur.com",
+            "status": 1
+        },
+        {
+            "source": "mashable.com",
+            "status": 1
+        },
+        {
+            "source": "gag.com",
+            "status": 1
+        },
+        {
+            "source": "ted.com",
+            "status": 1
+        },
+        {
+            "source": "twitch",
+            "status": 1
+        },
+        {
+            "source": "tumblr.com",
+            "status": 1
+        },
+        {
+            "source": "vk.com",
+            "status": 1
+        },
+        {
+            "source": "reddit",
+            "status": 1
+        },
+        {
+            "source": "bandcamp",
+            "status": 1
+        },
+        {
+            "source": "bilibili.com",
+            "status": 1
+        },
+        {
+            "source": "bitchute",
+            "status": 1
+        },
+        {
+            "source": "douyin",
+            "status": 1
+        },
+        {
+            "source": "izlesene",
+            "status": 1
+        },
+        {
+            "source": "kwai",
+            "status": 1
+        },
+        {
+            "source": "linkedin",
+            "status": 1
+        },
+        {
+            "source": "streamable",
+            "status": 1
+        },
+        {
+            "source": "pinterest",
+            "status": 1
+        },
+        {
+            "source": "mitron.tv",
+            "status": 1
+        },
+        {
+            "source": "josh",
+            "status": 1
+        },
+        {
+            "source": "triller",
+            "status": 1
+        },
+        {
+            "source": "rizzle",
+            "status": 1
+        },
+        {
+            "source": "ifunny",
+            "status": 1
+        },
+        {
+            "source": "trell.co",
+            "status": 1
+        },
+        {
+            "source": "boloindya.com",
+            "status": 1
+        },
+        {
+            "source": "chingari",
+            "status": 1
+        },
+        {
+            "source": "dubsmash",
+            "status": 1
+        },
+        {
+            "source": "bittube",
+            "status": 1
+        },
+        {
+            "source": "mp4upload",
+            "status": 1
+        },
+        {
+            "source": "ok.ru",
+            "status": 1
+        },
+        {
+            "source": "mediafire",
+            "status": 1
+        },
+        {
+            "source": "gphoto",
+            "status": 1
+        },
+        {
+            "source": "uptostream",
+            "status": 1
+        },
+        {
+            "source": "fembed",
+            "status": 1
+        },
+        {
+            "source": "cocoscope",
+            "status": 1
+        },
+        {
+            "source": "sendvid",
+            "status": 1
+        },
+        {
+            "source": "vivo",
+            "status": 1
+        },
+        {
+            "source": "4shared",
+            "status": 1
+        },
+        {
+            "source": "hind",
+            "status": 1
+        },
+        {
+            "source": "abc.com",
+            "status": 1
+        },
+        {
+            "source": "gfycat",
+            "status": 1
+        },
+        {
+            "source": "videoclip.org",
+            "status": 1
+        },
+        {
+            "source": "fw.tv",
+            "status": 1
+        },
+        {
+            "source": "break.com",
+            "status": 1
+        },
+        {
+            "source": "blogger",
+            "status": 1
+        },
+        {
+            "source": "moj",
+            "status": 1
+        },
+        {
+            "source": "zili",
+            "status": 1
+        },
+        {
+            "source": "tiki",
+            "status": 1
+        },
+        {
+            "source": "popcornflix",
+            "status": 1
+        },
+        {
+            "source": "dtube",
+            "status": 1
+        },
+        {
+            "source": "fansubs.tv",
+            "status": 1
+        },
+        {
+            "source": "kickstarter",
+            "status": 1
+        },
+        {
+            "source": "vlive",
+            "status": 1
+        },
+        {
+            "source": "vlipsy",
+            "status": 1
+        },
+        {
+            "source": "vidlit",
+            "status": 1
+        },
+        {
+            "source": "gloria.tv",
+            "status": 1
+        },
+        {
+            "source": "aparat",
+            "status": 1
+        },
+        {
+            "source": "1tv.ru",
+            "status": 1
+        },
+        {
+            "source": "allocine.fr",
+            "status": 1
+        },
+        {
+            "source": "audioboom",
+            "status": 1
+        },
+        {
+            "source": "audiomack",
+            "status": 1
+        },
+        {
+            "source": "veer.tv",
+            "status": 1
+        },
+        {
+            "source": "ojoo",
+            "status": 1
+        },
+        {
+            "source": "raask",
+            "status": 1
+        },
+        {
+            "source": "fairtok",
+            "status": 1
+        },
+        {
+            "source": "byte.co",
+            "status": 1
+        },
+        {
+            "source": "kooapp",
+            "status": 1
+        },
+        {
+            "source": "funimate",
+            "status": 1
+        },
+        {
+            "source": "fthis.gr",
+            "status": 1
+        },
+        {
+            "source": "firework.tv",
+            "status": 1
+        },
+        {
+            "source": "coub",
+            "status": 1
+        },
+        {
+            "source": "rumble",
+            "status": 1
+        },
+        {
+            "source": "zingmp3",
+            "status": 1
+        },
+        {
+            "source": "pin.it",
+            "status": 1
+        },
+        {
+            "source": "veoh",
+            "status": 1
+        },
+        {
+            "source": "bemate",
+            "status": 1
+        },
+        {
+            "source": "naver",
+            "status": 1
+        },
+        {
+            "source": "blogspot.com",
+            "status": 1
+        },
+        {
+            "source": "solidfiles",
+            "status": 1
+        },
+        {
+            "source": "traileraddict",
+            "status": 1
+        },
+        {
+            "source": "camdemy",
+            "status": 1
+        },
+        {
+            "source": "media.ccc.de",
+            "status": 1
+        },
+        {
+            "source": "vidcommons.org",
+            "status": 1
+        },
+        {
+            "source": "fb.watch",
+            "status": 1
+        },
+        {
+            "source": "dai.ly",
+            "status": 1
+        },
+        {
+            "source": "flic.kr",
+            "status": 1
+        },
+        {
+            "source": "redd.it",
+            "status": 1
+        },
+        {
+            "source": "kw.ai",
+            "status": 1
+        }
+    ],"jump_type":0,"privacy_type":0,"privacy":"","whitelist":"br,ph","privacy_event":"open"}
